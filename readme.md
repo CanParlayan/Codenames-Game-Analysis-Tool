@@ -6,7 +6,7 @@ A powerful utility for analyzing Codenames game state and generating AI-assisted
 
 The Codenames Analysis Tool connects to an active Codenames game, captures the game state through WebSocket monitoring, and helps spymasters generate effective clues by preparing prompts for AI assistants like ChatGPT, Claude, or Bard.
 
-![Codenames Analysis Tool](https://github.com/CanParlayan/Codenames-Game-Analysis-Tool/img.png)
+![Codenames Analysis Tool](https://github.com/CanParlayan/Codenames-Game-Analysis-Tool/blob/main/img.png)
 
 ## Features
 
